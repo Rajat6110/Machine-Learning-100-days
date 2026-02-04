@@ -35,7 +35,7 @@ I share my daily progress on Twitter to stay disciplined and visible to recruite
 │
 ├── README.md
 ├── requirements.txt
-│'''
+│── notebook'''
 
 
 
