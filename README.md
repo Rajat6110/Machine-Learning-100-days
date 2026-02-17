@@ -9,7 +9,7 @@ I share my daily progress on Twitter to stay disciplined and visible to recruite
 ## 📌 What This Repo Covers
 
 - Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
+- Exploratory Data Analysis(EDA)  
 - Feature Engineering  
 - Supervised Learning (Regression & Classification)  
 - Ensemble Methods  
@@ -19,7 +19,7 @@ I share my daily progress on Twitter to stay disciplined and visible to recruite
   - XGBoost  
   - LightGBM  
   - CatBoost  
-- Clustering  
+- Clustering Task
   - KMeans  
   - Hierarchical  
   - DBSCAN  
